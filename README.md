@@ -1,8 +1,8 @@
-# PyTorch Object Detection and Tracking
+# Object Tracking
 Object detection in images, and tracking across video frames
 
-Full story at:
-https://towardsdatascience.com/object-detection-and-tracking-in-pytorch-b3cf1a696a98
+### Step1:Open Object_Tracking.ipynb file in google colab
+### Step2:go through the code and add yolov3 weights in proper extention and run the code!
 
 References:
 1. YOLOv3: https://pjreddie.com/darknet/yolo/
